@@ -19,6 +19,11 @@
             },
             {
                 "file": "../../product/fonts/Mejiro-Semibold.ttf",
+                "weight": "500",
+                "style": "normal"
+            },
+            {
+                "file": "../../product/fonts/Mejiro-Semibold.ttf",
                 "weight": "600",
                 "style": "normal"
             },
